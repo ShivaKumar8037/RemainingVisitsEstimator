@@ -1,6 +1,10 @@
 # How Many Times Will You See Your Parents Before They Die?
 
-This repository contains the source code for a web application that calculates the estimated number of times you will see your parents before they pass away. This prediction is based on their current age, life expectancy data from various countries, and how often you visit them annually. The concept is inspired by [See Your Folks](https://seeyourfolks.com/).
+This repository contains the source code for a web application that calculates the estimated number of times you will see your parents before they pass away. This prediction is based on their current age, life expectancy data from various countries, and how often you visit them annually.
+
+## Live Application
+
+To see the application in action, visit [remainingvisits.streamlit.app](https://remainingvisits.streamlit.app/).
 
 ## Features
 
